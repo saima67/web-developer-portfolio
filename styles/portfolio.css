@@ -185,6 +185,13 @@ nav a{
         text-align:center;
         margin-top: 50px;
     }
+    /* footer style section */
+    footer{
+        display:flex;
+        background: #FFF8F3;
+        padding: 130px 200px;
+        margin-top: 100px;
+    }
     
 
     /* text section styles */
